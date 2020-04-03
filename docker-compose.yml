@@ -1,0 +1,14 @@
+version: '2.3'
+services:
+  website:
+    image: projects_website:latest
+    build:
+      context: '.'
+      dockerfile: 'Dockerfile'
+#    volumes:
+#      - "./:/app"
+    ports:
+      - "8000:9090"
+#    environment:
+#      - REDIS_ADDRESS=redis
+#      - REDIS_PORT=6379
