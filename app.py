@@ -48,7 +48,7 @@ def researchers_page():
 
 @app.route('/information', methods=['GET'])
 def information_page():
-    return render_template('documents.html')
+    return render_template('information.html')
 
 
 if __name__ == '__main__':
