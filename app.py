@@ -56,5 +56,15 @@ def summary_page():
     return render_template('summary.html')
 
 
+@app.route('/rights', methods=['GET'])
+def rights_page():
+    return render_template('participants_rights.html')
+
+
+@app.route('/documents', methods=['GET'])
+def documents_page():
+    return render_template('documents.html')
+
+
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=9090)
