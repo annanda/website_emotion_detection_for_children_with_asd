@@ -4344,3 +4344,10 @@ body.is-loading #banner:after {
     }
 
 }
+.images_footer{
+    float: left;
+    margin-right: 60px;
+}
+/*.image_footer{*/
+
+/*}*/
