@@ -10,7 +10,7 @@ services:
       - "80:80"
     restart: unless-stopped
   website:
-    image: projects_website:latest
+    image: registry.insight-centre.org/annsou/projects_website:latest
     build:
       context: '.'
       dockerfile: 'Dockerfile'
