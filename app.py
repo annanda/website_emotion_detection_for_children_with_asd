@@ -66,5 +66,11 @@ def documents_page():
     return render_template('documents.html')
 
 
+@app.route('/save_forms', methods=['POST'])
+def contact_forms_page():
+    return 'done!'
+
+
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=9090)
+    # app.run(debug=True, host='0.0.0.0', port=9090)
+    app.run(debug=False, host='0.0.0.0', port=5000)
