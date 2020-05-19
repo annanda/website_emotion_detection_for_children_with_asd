@@ -4316,6 +4316,9 @@ body.is-loading #banner:after {
         max-width: 90%;
         width: 90%;
     }
+    #flyer_recruitment{
+    width: 90%;
+}
 
 }
 
@@ -4351,3 +4354,6 @@ body.is-loading #banner:after {
 /*.image_footer{*/
 
 /*}*/
+#flyer_recruitment{
+    width: 50%;
+}
