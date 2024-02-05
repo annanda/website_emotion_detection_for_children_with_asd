@@ -1,1 +1,6 @@
-# Website for the research project "Personal-independent Emotion Detection Model for Children with High-Functioning ASD"
+# Source Code Website for the research project "Ethically-driven Multimodal Emotion Detection for Children with Autism"
+
+Author: Annanda Sousa
+
+
+## Licence 
