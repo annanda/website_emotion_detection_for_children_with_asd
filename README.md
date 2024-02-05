@@ -15,6 +15,7 @@ Source code used for the "Ethically-driven Multimodal Emotion Detection for Chil
 `python -m venv ./venv`
 
 `source ./venv/bin/activate`
+
 2. Run the script 
 
 `python app.py`
