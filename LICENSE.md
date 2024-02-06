@@ -38,8 +38,8 @@ THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 The full text of the 3-Cause BSD License is also available at https://opensource.org/license/bsd-3-clause/.
 
-2.  For commercial use of the Software, you are required to contact the University of Galway to 
-arrange a commercial license.
+2.  For **commercial use of the Software**, you are required to contact the University of Galway to 
+arrange a **commercial license**.
 
 ## RESPONSIBILITY FOR THIRD-PARTY SOFTWARE:
 The user must comply with the licences of the third-party 
