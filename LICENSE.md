@@ -37,6 +37,7 @@ WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWIS
 THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 The full text of the 3-Cause BSD License is also available at https://opensource.org/license/bsd-3-clause/.
+
 2.  For commercial use of the Software, you are required to contact the University of Galway to 
 arrange a commercial license.
 
