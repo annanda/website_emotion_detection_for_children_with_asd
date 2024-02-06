@@ -42,6 +42,14 @@ licence.
 
 Please refer to [LICENSE.md](LICENSE.md) file for details on the licence.
 
+### Credits
+
+Photo by Tengyart on Unsplash
+
+Photo by Apaha Spi on Unsplash
+
+Photo by Glenn Carstens-Peters on Unsplash
+
 ----
 
 Author: Annanda Sousa
